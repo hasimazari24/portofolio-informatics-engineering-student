@@ -1,4 +1,4 @@
-Access in : https://hasimazari24.github.io/portofolio-informatics-engineering-student/
+**Access site** : https://hasimazari24.github.io/portofolio-informatics-engineering-student/
 
 
 **Template Name: MyResume**
